@@ -1,8 +1,7 @@
 # assignment_4
 
-A new Flutter project.
+<img width="1019" height="559" alt="Screenshot 2026-05-17 113846" src="https://github.com/user-attachments/assets/4ad265af-d646-4da4-8c3b-6a465ae67059" />
 
-## Getting Started
 
 This project is a starting point for a Flutter application.
 
